@@ -30,7 +30,7 @@ This package is just a user interface for [spatie/laravel-permission](https://gi
 1) In your terminal:
 
 ``` bash
-composer require backpack/permissionmanager
+composer require afzalsabbir/permissionmanager
 ```
 
 2) Finish all installation steps for [spatie/laravel-permission](https://github.com/spatie/laravel-permission#installation), which as been pulled as a dependency. Run its migrations. Publish its config files. Most likely it's:
